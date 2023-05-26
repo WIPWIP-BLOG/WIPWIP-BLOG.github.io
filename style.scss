@@ -272,7 +272,8 @@ nav {
 }
 
 .wrapper-footer {
-  margin-top: 50px;
+  height: auto;
+  min-height: 100%;
   border-top: 1px solid #ddd;
   border-bottom: 1px solid #ddd;
   background-color: $lightGray;
@@ -280,6 +281,7 @@ nav {
 
 footer {
   padding: 20px 0;
+  position: rekative;
   text-align: center;
 }
 
